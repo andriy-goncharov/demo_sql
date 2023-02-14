@@ -13,4 +13,3 @@ from PC
 WHERE speed >600
 GROUP by speed
 
-
