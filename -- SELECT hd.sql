@@ -1,21 +1,21 @@
 -- SELECT hd
--- FROM PC
+    -- FROM PC
 -- GROUP BY hd 
--- HAVING COUNT(*) >= 2
+    -- HAVING COUNT(*) >= 2
 -- SELECT speed, AVG(price) as price
--- from PC 
+    -- from PC 
 
 -- WHERE speed >600
 
--- GROUP by speed
+    -- GROUP by speed
 
 -- SELECT speed, AVG(price) as price
 
--- from PC
+    -- from PC
 
 -- WHERE speed >600
 
--- GROUP by speed
+    -- GROUP by speed
 
 
 SELECT speed, AVG(price) as price
